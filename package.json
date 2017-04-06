@@ -1,0 +1,10 @@
+{
+  "name": "react-redux",
+  "version": "0.0.1",
+  "description": "react redux tutorial",
+  "repository": "",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^3.6.0"
+  }
+}
